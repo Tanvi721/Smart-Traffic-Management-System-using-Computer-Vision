@@ -53,7 +53,7 @@ This project implements a Computer Vision-based Smart Traffic Management System 
 🔹 Smart city simulation model  
 
 🎬 **Watch Full Demo Video:**  
-👉 [Click Here to View Complete Working](assets/demo.mp4)
+ 👉 [Watch Demo](./demo.mp4)
 
 ---
 
