@@ -32,7 +32,21 @@ This project implements a Computer Vision-based Smart Traffic Management System 
 - Calculates vehicle density dynamically  
 - Classifies congestion levels (Low / Moderate / Heavy)  
 - Adjusts green signal duration accordingly  
-- Simulates intelligent smart city traffic control  
+- Simulates intelligent smart city traffic control
+
+# Output
+<img width="956" height="499" alt="Screenshot 2026-02-22 204352" src="https://github.com/user-attachments/assets/f137f858-500c-4a62-b193-91e195e5c105" />
+
+---
+
+## 🎥 Watch Full Demo
+
+[![Smart Traffic System Demo](assets/demo-thumbnail.png)](assets/demo.mp4)
+
+> Click the image to watch the full working demo.
+
+---
+
 
 ---
 
