@@ -39,11 +39,23 @@ This project implements a Computer Vision-based Smart Traffic Management System 
 
 ---
 
-## 🎥 Watch Full Demo
+---
 
-[![Smart Traffic System Demo](assets/demo-thumbnail.png)](assets/demo.mp4)
+## 🎥 Live Demonstration
 
-> Click the image to watch the full working demo.
+### 🚦 AI-Based Smart Traffic Control in Real-Time
+
+![Demo Preview](assets/demo.gif)
+
+🔹 Real-time YOLOv8 vehicle detection  
+🔹 Live traffic density calculation  
+🔹 Intelligent signal timing adjustment  
+🔹 Smart city simulation model  
+
+🎬 **Watch Full Demo Video:**  
+👉 [Click Here to View Complete Working](assets/demo.mp4)
+
+---
 
 ---
 
